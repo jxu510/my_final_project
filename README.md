@@ -14,4 +14,9 @@ This is my final project on Haiti.
 
 ![](Haiti.png)
 
+## Population of Haiti_3D plot
+
+![](Haiti_3D.gif)
+
+
 
