@@ -44,6 +44,34 @@ Two histograms with variables indicate that there's one region with particularly
 
 The R square value I got is very close to 1, which shows the accuracy of the estimated method. However, this might also be due to the size of data collected is relatively small compared to other country's.
 
+## Mapview
+
+![](Port-au-Prince_mapview.png)
+
+## Three Prediction Methods - 1
+Response variable is population and the predictors are mean of covariates
+
+![](population&Means_3D.png)
+![](Population&Means_Difference.png)
+
+## Three Prediction Method - 2
+Response variable is population and the predictors are sums of covariates
+
+![](Population&Sums_3D.png)
+![](Population&Sums_Difference.png)	
+
+## Three Prediction Method - 3
+Response variable is log of population and the predictors are mean of covariates
+
+![](Predicted logpop_3D.png)
+![](Predicted logpop_Difference.png)
+
+
+
+
+
+
+
 
 
 
