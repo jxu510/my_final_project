@@ -29,5 +29,18 @@ According to the population plot above, the most obvious red part is where Haiti
 
 The three-dimentional plot presents the population among the country in a more visible way. From the plot, we can infer that except for West and the department around it, the population is mostly distributed in an even way. 
 
+## Histograms with different variables
+
+![](density&ntl.png)
+![](density&til+dst040.png)
+![](pop15 Density.png)
+
+Two histograms with variables indicate that there's one region with particularly high use of night time lights, further confriming the previous estimated of population.
+
+## The Regression Model
+
+
+
+
 
 
