@@ -12,13 +12,14 @@ The region that I picked is South-East (Detail A) and North-East (Detail B). Lik
 
 ## Population of Haiti's Countries
 
+![](Haiti.png)
+
+## Population of Haiti's Districts
+
 ![](Haiti_pop19_adm2.png)
 
 According to the population plot above, the most obvious red part is where Haiti's capital Port-au-Prince is located in. Meanwhile, due to the impact of this subdivision, the nearby cities are also having a relatively densed population, compared to other parts. Except for this specific area, population is kind of evenly distributed among the country cause there's no particular difference in color, as shown on the plot.
 
-## Population of Haiti's Districts
-
-![](Haiti.png)
 
 ## Population of Haiti_3D plot
 
