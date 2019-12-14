@@ -39,6 +39,14 @@ Two histograms with variables indicate that there's one region with particularly
 
 ## The Regression Model
 
+![](pop15 ~ water + dst + topo + slope + ntl.png)
+![](R square.png)
+
+The R square value I got is very close to 1, which shows the accuracy of the estimated method. However, this might also be due to the size of data collected is relatively small compared to other country's.
+
+
+
+
 
 
 
