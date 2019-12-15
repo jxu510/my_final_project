@@ -74,6 +74,9 @@ Even though the third model gives the smallest r² value (0.3941), compared to t
 
 ![](2D plot.png)
 
+![](roadways.gif)
+
+
 
 
 
