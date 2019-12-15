@@ -72,7 +72,11 @@ Even though the third model gives the smallest r² value (0.3941), compared to t
 
 ## Human Settlements & Roadways & Health Care Facilities
 
+2D
+
 ![](2D plot.png)
+
+3D
 ![](roadways.gif)
 
 
