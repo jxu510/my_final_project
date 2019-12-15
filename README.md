@@ -70,14 +70,15 @@ Response variable is log of population and the predictors are mean of covariates
 
 Even though the third model gives the smallest r² value (0.3941), compared to the sums model’s (0.7354) and means model’s (0.7859). However, r² value focuses on the general similarity of the predicted and actual population. On the other hand, absolute difference quantifies the difference into a specific number, thus playing a more important role in determining the accuracy of the prediction. Also, by comparing the specific quantified difference in the actual population and the predicted population, scientists can have a better and thorough sense of various models. The absolute difference for the logarithm model is 8910645, which is slightly lower than the sums model, which has a difference of 8937638. Meanwhile, it is millions smaller than the difference yield by the means model, which is 10732289. In conclusion, the model of using the logarithm of the population as the response variable and using the mean of covariates as the predictor (the third model) yields the best results.
 
-## Human Settlements & Roadways & Health Care Facilities
+## Human Settlements & Roadways & Health Care Facilities - 3D Plot
 
-2D
-
-![](2D plot.png)
-
-3D
 ![](roadways.gif)
+
+## Human Settlements & Roadways & Health Care Facilities - Data
+
+![](Table.png)
+
+
 
 
 
