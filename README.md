@@ -94,7 +94,7 @@ The State of Health Care: Unlike other low or middle-income countries, the main 
 
 ## Brief Discussion
 
-The three-dimensional map serves as a complement to my analysis of Jacmel & Bainet - I learned the reason for the distribution of urban areas, the transportation and health care facilities. How they are located are not random, but following some general rules, like avoid mountainous areas as possible.
+The three-dimensional map serves as a complement to my analysis of Jacmel & Bainet - I learned the reason for the distribution of urban areas, the transportation and health care facilities. The way that they are located is not random, but follow some general rules, like they tend to avoid mountainous areas.
 
 
 
