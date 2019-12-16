@@ -74,6 +74,8 @@ Even though the third model gives the smallest r² value (0.3941), compared to t
 
 ![](Table.png)
 
+Two countries that I chose to focus on is Jacemel and Bainet, located in the South-East department in Haiti and is next to the capital Port-au-Prince.
+
 ## Human Settlements & Roadways & Health Care Facilities - 2D Plot
 
 ![](Project 3.png)
@@ -90,8 +92,9 @@ Health Care Facilities: Most of the health care facilities are built on relative
 
 The State of Health Care: Unlike other low or middle income countries, the main problem related to health care is not the lack of hospitals, but is a dearth of primary care and a lack of public investment in health care facitilities. Specifically, the annual per capita public health spending in Haiti is only $13, whereas it's $180 in the Dominican Republic, Haiti's neibor country. At the same time, lots of hospitals are not providing level of services that they are supposed to have. So the number of hospitals (55) is deceptive because it is unable to show the true state of health care that people can be serviced.
 
+## Brief Discussion
 
-
+The three-dimensional map serves as a complement to my analysis of Jacmel & Bainet - I learned the reason for the distribution of urban areas, the transportation and health care facilities. How they are located are not random, but following some general rules, like avoid mountainous areas as possible.
 
 
 
