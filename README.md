@@ -1,6 +1,6 @@
 # Haiti
 
-This is my final project on Haiti. I‘m going to introduce the estimation methods to predict population, as well as some distribution of infrastructures in Haiti (or 2 specific adm2s, which is Jacmel and Bainet).
+This is my final project on Haiti. I‘m going to introduce the estimation methods to predict population, as well as some distribution of infrastructures in Haiti (or 2 specific adm2s: Jacmel and Bainet).
 
 ## Administrative Subdivisions of Haiti
 
