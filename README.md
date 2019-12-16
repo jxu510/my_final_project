@@ -1,33 +1,33 @@
 # Haiti
 
-This is my final project on Haiti.
+This is my final project on Haiti. I‘m going to introduce the estimation methods to predict population, as well as some distribution of infrastructures in Haiti (or 2 specific adm2s, which is Jacmel and Bainet).
 
 ## Administrative Subdivisions of Haiti
 
 ![](details3.0.png)
 
-Haiti is divided administratively into 10 departments: Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud-Est and Sud. The country is further subdivied into 42 arrondissements (a specific level of administrative division in Haiti), including Port-au-Prince, Jacmel, Bainet, etc.
+Haiti is divided administratively into 10 departments: Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud-Est and Sud. The country is further subdivided into 42 arrondissements (a specific level of administrative division in Haiti), including Port-au-Prince, Jacmel, Bainet, etc.
 
-The region that I picked is West (Detail A), also known as "Ouest" and North-East (Detail B). Unlike its name indicates, the west department is located in the east part of Haiti. This department includes the capital of Haiti, Port-au-Prince, and thus, is the most populated area among the country due to the relatively developed economy. Like the name tells, the North-East department is located in the northeastern of Haiti, which is a historic site of colonial plantations and a main place for the cultivation of chestnuts.
+The region that I picked is West (Detail A), also known as "Ouest" and North-East (Detail B). Unlike its name indicates, the west department is located in the east part of Haiti. This department includes the capital of Haiti, Port-au-Prince, and thus, is the most populated area among the country due to the relatively developed economy. As the name tells, the North-East department is located in the northeastern of Haiti, which is a historic site of colonial plantations and the main place for the cultivation of chestnuts.
 
 ## Population of Haiti's Countries
 
 ![](Haiti.png)
 
-According to the bar chart on the left, there's no big difference in the population except for Ouest and L'Artibonite, which accounts for more than 55 percent of population in Haiti, showing the particular area of concentrated population.
+According to the bar chart on the left, there's no big difference in the population except for Ouest and L'Artibonite, which accounts for more than 55 percent of the population in Haiti, showing the particular area of concentrated population.
 
 ## Population of Haiti's Districts
 
 ![](Haiti_pop19_adm2.png)
 
-According to the population plot above, the most obvious red part is where Haiti's capital Port-au-Prince is located in. Meanwhile, due to the impact of this subdivision, the nearby cities are also having a relatively densed population, compared to other parts. Except for this specific area, population is kind of evenly distributed among the country cause there's no particular difference in color, as shown on the plot.
+According to the population plot above, the most obvious red part is where Haiti's capital Port-au-Prince is located in. Meanwhile, due to the impact of this subdivision, the nearby cities are also having a relatively dense population, compared to other parts. Except for this specific area, the population is kind of evenly distributed among the country cause there's no particular difference in color, as shown on the plot.
 
 
 ## Population of Haiti_3D plot
 
 ![](Haiti_3D.gif)
 
-The three-dimentional plot presents the population among the country in a more visible way. From the plot, we can infer that except for West and the department around it, the population is mostly distributed in an even way. 
+The three-dimensional plot presents the population among the country in a more visible way. From the plot, we can infer that except for West and the department around it, the population is mostly distributed in an even way. 
 
 ## Histograms with different variables
 
@@ -35,14 +35,14 @@ The three-dimentional plot presents the population among the country in a more v
 ![](density&til+dst040.png)
 ![](pop15 Density.png)
 
-Two histograms with variables indicate that there's one region with particularly high use of night time lights, further confriming the previous estimated of population.
+Two histograms with variables indicate that there's one region with particularly high use of nighttime lights, further confirming the previous estimated of population.
 
 ## The Regression Model
 
 ![](pop15 ~ water + dst + topo + slope + ntl.png)
 ![](R square.png)
 
-The R square value I got is very close to 1, which shows the accuracy of the estimated method. However, this might also be due to the size of data collected is relatively small compared to other country's.
+The R square value I got is very close to 1, which shows the accuracy of the estimated method. However, this might also be due to the size of the data collected is relatively small compared to other country's.
 
 ## Mapview
 
@@ -84,13 +84,13 @@ Two countries that I chose to focus on is Jacemel and Bainet, located in the Sou
 
 ![](roadways.gif)
 
-Urban Areas: The main urban areas “Cité Lumiere de Jacmel” in Jacmel is located on a flat ground - a low laying area. The terrain there is relatively flat, which is conducive to the construction of infrastructure such as buildings and roads. Moreover, the water source is sufficient, contributing to a more stable agricultural condition and a more convenient water transportation system.
+Urban Areas: The main urban areas “Cité Lumiere de Jacmel” in Jacmel is located on flat ground - a low laying area. The terrain there is relatively flat, which is conducive to the construction of infrastructures such as buildings and roads. Moreover, the water source is sufficient, contributing to a more stable agricultural condition and a more convenient water transportation system.
 
-Roadways: Because of the low rate of ownership, the type of roadways is limited, as there are only secondary roads in the city. Also, the catastrophic earthquake in 2010 has damaged, or even destroyed, some roads. Some of roads are built on the mountainous areas, but most of them are built on flat grounds, connecting each urban areas and health facilities. The roads are built in ways to maximize people's accesibility to health care facilities.
+Roadways: In my 2 adm2s, there is 15 secondary roads and 1 unknown road in total. Because of the low rate of ownership, the type of roadways is limited, as there are only secondary roads in the city. Also, the catastrophic earthquake in 2010 has damaged or even destroyed some roads. Some of the roads are built on the mountainous areas, but most of them are built on flat grounds, connecting each urban areas and health facilities. The roads are built in ways to maximize people's accessibility to health care facilities.
 
-Health Care Facilities: Most of the health care facilities are built on relatively flat areas or on the ridge, rather than being built right on top of the hill. It might be built in this pattern in order to improve people’s accessibility to hospitals, clinics, etc. Also, another feature is that most of health care facilities are connected by the major secondary roads (colored in red on the plot), resulting in convenient path towards those facilities.
+Health Care Facilities: Most of the health care facilities are built on relatively flat areas or on the ridge, rather than being built right on top of the hill. It might be built in this pattern in order to improve people’s accessibility to hospitals, clinics, etc. Also, another feature is that most of the health care facilities are connected by the major secondary roads (colored in red on the plot), resulting in a convenient path towards those facilities.
 
-The State of Health Care: Unlike other low or middle income countries, the main problem related to health care is not the lack of hospitals, but is a dearth of primary care and a lack of public investment in health care facitilities. Specifically, the annual per capita public health spending in Haiti is only $13, whereas it's $180 in the Dominican Republic, Haiti's neibor country. At the same time, lots of hospitals are not providing level of services that they are supposed to have. So the number of hospitals (55) is deceptive because it is unable to show the true state of health care that people can be serviced.
+The State of Health Care: Unlike other low or middle-income countries, the main problem related to health care is not the lack of hospitals, but is a dearth of primary care and a lack of public investment in health care facilities. Specifically, the annual per capita public health spending in Haiti is only $13, whereas it's $180 in the Dominican Republic, Haiti's neighbor country. At the same time, lots of hospitals are not providing the level of services that they are supposed to have. So the number of hospitals (55) is deceptive because it is unable to show the true state of health care that people can be serviced.
 
 ## Brief Discussion
 
